@@ -6,7 +6,6 @@ function App() {
   return (
     <div className='App'>
       <MainComponent />
-      <button className='btn btn-primary'>ccaccaa</button>
     </div>
   );
 }
