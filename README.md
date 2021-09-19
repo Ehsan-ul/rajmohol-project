@@ -1,4 +1,4 @@
-<h2><b>Live Demo:</b> https://ehsan-ul.github.io/rajmohol-project/</h2>
+<h1> https://ehsan-ul.github.io/rajmohol-project/</h1>
 
 
 # Getting Started with Create React App
