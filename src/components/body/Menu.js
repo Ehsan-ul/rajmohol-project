@@ -27,15 +27,10 @@ class Menu extends Component {
       );
     });
 
-    let dishDetail = null
+    let dishDetail = null;
     if (this.state.selectedDsih != null) {
-      dishDetail = <DishDetail dish ={this.state.selectedDsih}/>
-
-
+      dishDetail = <DishDetail dish={this.state.selectedDsih} />;
     }
-
-
-
 
     return (
       <div className='container'>
